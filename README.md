@@ -1,6 +1,6 @@
 [ReadMe.md](https://github.com/user-attachments/files/26373418/ReadMe.md)
 # 💫 About Me:
-I am currently working on creating basic console applications for users.I am looking  to collaborate on learning about AI systems,I qill be looking to help with the development of systems the promote better user interface.<br>I am currently learning web development.<br>You can ask me about anything regarding web-creation and databases .<br>Fun fact I program in order to aid in the process of having systems that make other peoples lives easier.<br>
+I am currently working on creating basic console applications for users.I am looking  to collaborate on learning about AI systems,I will be looking to help with the development of systems the promote better user interface.<br>I am currently learning web development.<br>You can ask me about anything regarding web-creation and databases .<br>Fun fact I program in order to aid in the process of having systems that make other peoples lives easier.<br>
 
 
 ## 🌐 Socials:
